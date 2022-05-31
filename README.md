@@ -8,4 +8,4 @@ This repository contains screenshots in the form of a document about implementin
 
 PS: The credentials for the AWS account were provided to me by [Vighnesh Prakash](https://www.linkedin.com/in/vighneshpp/)
 
-Contributor: [Harish Balasubramaniam](https://github.com/harishb1407)
+Contributor: [Harish Balasubramaniam](https://www.linkedin.com/in/harish-balasubramaniam/)
